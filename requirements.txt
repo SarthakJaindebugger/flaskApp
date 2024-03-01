@@ -107,3 +107,17 @@
 
 Flask
 gunicorn
+requests
+jsonify
+os-sys
+speechbrain
+pathlib
+category-encoders
+torchaudio
+numpy
+scikit-learn
+tensorflow
+logging
+Werkzeug
+pydub
+Flask-Cors
