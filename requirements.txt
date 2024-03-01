@@ -107,6 +107,7 @@
 
 Flask
 gunicorn
+git+https://github.com/speechbrain/speechbrain.git
 requests
 jsonify
 #os-sys
@@ -114,6 +115,7 @@ speechbrain
 pathlib
 category-encoders
 torchaudio
+torch
 numpy
 scikit-learn
 tensorflow
@@ -121,4 +123,4 @@ logging
 Werkzeug
 pydub
 Flask-Cors
-git+https://github.com/speechbrain/speechbrain.git@develop
+# git+https://github.com/speechbrain/speechbrain.git@develop
