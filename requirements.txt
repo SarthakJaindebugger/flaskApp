@@ -121,3 +121,4 @@ logging
 Werkzeug
 pydub
 Flask-Cors
+git+https://github.com/speechbrain/speechbrain.git@develop
